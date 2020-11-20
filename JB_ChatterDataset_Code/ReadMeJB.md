@@ -1,4 +1,4 @@
-Notes:  My initial dataset consisted of 1500 tweets which were ideal for visually representing their clusters following 
+# Notes:  My initial dataset consisted of 1500 tweets which were ideal for visually representing their clusters following 
 vectorization but I'm curious to see how this would fare at the scale of your data set. The Optimal K value will obviously 
 be subject to change as dataset size increases which will introduce the need for further hyperparameter tuning but everything 
 you need to run the code had been included in this file. I've included The original Twitter dataset as a reference and the necessary 
