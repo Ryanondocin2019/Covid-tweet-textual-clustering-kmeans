@@ -1,5 +1,6 @@
 # Notes:  My initial dataset consisted of 1500 tweets which were ideal for visually representing their clusters following 
-vectorization but I'm curious to see how this would fare at the scale of your data set. The Optimal K value will obviously 
-be subject to change as dataset size increases which will introduce the need for further hyperparameter tuning but everything 
-you need to run the code had been included in this file. I've included The original Twitter dataset as a reference and the necessary 
-callback file for creating your interactive bokeh plot. Please reach out to me with any questions and I'm looking forward to your results!
+# vectorization but I'm curious to see how this would fare at the scale of your data set. The Optimal K value will obviously 
+# be subject to change as dataset size increases which will introduce the need for further hyperparameter tuning but everything 
+# you need to run the code had been included in this file. Reducing the variance value for PCA (0.90 -> 0.85) might also be adviseable for best results.
+# I've included The original Twitter dataset as a reference and the necessary 
+# callback file for creating your interactive bokeh plot. Please reach out to me with any questions and I'm looking forward to your results!
